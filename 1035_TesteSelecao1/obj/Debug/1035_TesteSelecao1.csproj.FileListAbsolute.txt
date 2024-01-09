@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1035_TesteSelecao1\1035_TesteSelecao1\bin\Debug\1035_TesteSelecao1.exe.config
+C:\CURSOS\C#\projetos\1035_TesteSelecao1\1035_TesteSelecao1\bin\Debug\1035_TesteSelecao1.exe
+C:\CURSOS\C#\projetos\1035_TesteSelecao1\1035_TesteSelecao1\bin\Debug\1035_TesteSelecao1.pdb
+C:\CURSOS\C#\projetos\1035_TesteSelecao1\1035_TesteSelecao1\obj\Debug\1035_TesteSelecao1.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1035_TesteSelecao1\1035_TesteSelecao1\obj\Debug\1035_TesteSelecao1.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1035_TesteSelecao1\1035_TesteSelecao1\obj\Debug\1035_TesteSelecao1.exe
+C:\CURSOS\C#\projetos\1035_TesteSelecao1\1035_TesteSelecao1\obj\Debug\1035_TesteSelecao1.pdb
